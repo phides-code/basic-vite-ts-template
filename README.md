@@ -1,1 +1,3 @@
-# Basic React + TypeScript + Vite template
+# basic-vite-ts-template
+
+Basic React + TypeScript + Vite template
